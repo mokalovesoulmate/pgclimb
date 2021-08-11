@@ -18,7 +18,12 @@ Use Cases:
 - Transform data to JSON for graphing it with JavaScript libraries
 - Generate readonly JSON APIs
 
-## Install
+## Install (mokalovesoulmate custom)
+
+- `go mod vendor`
+- `go build` or `gox` for cross-platform compile
+
+## Install (Original notes)
 
 You can download a single binary for Linux, OSX or Windows.
 
